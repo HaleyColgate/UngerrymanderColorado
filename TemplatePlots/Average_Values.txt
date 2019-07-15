@@ -1,0 +1,124 @@
+Values for Starting Plan: Random Start 
+
+
+
+AG18 Initial Mean-Median: 0.0
+
+AG18 Average Mean-Median: -0.01806167731797673
+
+AG18 Number Mean-Median Higher: 30177
+
+
+
+AG18 Initial Efficiency Gap: 0.0
+
+AG18 Average Efficiency Gap: -0.023260062463571186
+
+AG18 Number Efficiency Gap Higher: 61999
+
+
+
+AG18 Initial Dem Seats: 0.0
+
+AG18 Average EDem Seats: 3.713363363363363
+
+AG18 Number Dem Seats Higher: 99800
+
+
+
+SEC18 Initial Mean-Median: 0.0
+
+SEC18 Average Mean-Median: -0.01364033728926328
+
+SEC18 Number Mean-Median Higher: 33779
+
+
+
+SEC18 Initial Efficiency Gap: 0.0
+
+SEC18 Average Efficiency Gap: -0.0031027509364398268
+
+SEC18 Number Efficiency Gap Higher: 57335
+
+
+
+SEC18 Initial Dem Seats: 0.0
+
+SEC18 Average EDem Seats: 3.9506706706706707
+
+SEC18 Number Dem Seats Higher: 99800
+
+
+
+TRE18 Initial Mean-Median: 0.0
+
+TRE18 Average Mean-Median: -0.014747476189587242
+
+TRE18 Number Mean-Median Higher: 32032
+
+
+
+TRE18 Initial Efficiency Gap: 0.0
+
+TRE18 Average Efficiency Gap: -0.006338104888502948
+
+TRE18 Number Efficiency Gap Higher: 68354
+
+
+
+TRE18 Initial Dem Seats: 0.0
+
+TRE18 Average EDem Seats: 3.87973973973974
+
+TRE18 Number Dem Seats Higher: 99800
+
+
+
+GOV18 Initial Mean-Median: 0.0
+
+GOV18 Average Mean-Median: -0.01547610222938092
+
+GOV18 Number Mean-Median Higher: 32744
+
+
+
+GOV18 Initial Efficiency Gap: 0.0
+
+GOV18 Average Efficiency Gap: 0.00016875279379657465
+
+GOV18 Number Efficiency Gap Higher: 28938
+
+
+
+GOV18 Initial Dem Seats: 0.0
+
+GOV18 Average EDem Seats: 4.14992992992993
+
+GOV18 Number Dem Seats Higher: 99800
+
+
+
+REG18 Initial Mean-Median: 0.0
+
+REG18 Average Mean-Median: -0.016993266497213937
+
+REG18 Number Mean-Median Higher: 31522
+
+
+
+REG18 Initial Efficiency Gap: 0.0
+
+REG18 Average Efficiency Gap: -0.011413932794354518
+
+REG18 Number Efficiency Gap Higher: 34701
+
+
+
+REG18 Initial Dem Seats: 0.0
+
+REG18 Average EDem Seats: 3.9716016016016016
+
+REG18 Number Dem Seats Higher: 99800
+
+
+
