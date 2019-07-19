@@ -1,0 +1,124 @@
+Values for Starting Plan: EnactedPlan 
+
+
+
+AG18 Initial Mean-Median: -0.037545548304414145
+
+AG18 Average Mean-Median: -0.040106733400626364
+
+AG18 Number Mean-Median Higher: 83
+
+
+
+AG18 Initial Efficiency Gap: -0.11384329486798099
+
+AG18 Average Efficiency Gap: -0.07840137204568931
+
+AG18 Number Efficiency Gap Higher: 82
+
+
+
+AG18 Initial Dem Seats: 3.0
+
+AG18 Average EDem Seats: 3.316666666666667
+
+AG18 Number Dem Seats Higher: 76
+
+
+
+SEC18 Initial Mean-Median: -0.029983065008911347
+
+SEC18 Average Mean-Median: -0.03320662723427274
+
+SEC18 Number Mean-Median Higher: 85
+
+
+
+SEC18 Initial Efficiency Gap: 0.02077179387578816
+
+SEC18 Average Efficiency Gap: -0.05442706327358127
+
+SEC18 Number Efficiency Gap Higher: 62
+
+
+
+SEC18 Initial Dem Seats: 4.0
+
+SEC18 Average EDem Seats: 3.5833333333333335
+
+SEC18 Number Dem Seats Higher: 14
+
+
+
+TRE18 Initial Mean-Median: -0.03068247195541496
+
+TRE18 Average Mean-Median: -0.034432165880677906
+
+TRE18 Number Mean-Median Higher: 88
+
+
+
+TRE18 Initial Efficiency Gap: 0.028303746960175912
+
+TRE18 Average Efficiency Gap: -0.07309151288325216
+
+TRE18 Number Efficiency Gap Higher: 51
+
+
+
+TRE18 Initial Dem Seats: 4.0
+
+TRE18 Average EDem Seats: 3.404166666666667
+
+TRE18 Number Dem Seats Higher: 0
+
+
+
+GOV18 Initial Mean-Median: -0.029388736554474715
+
+GOV18 Average Mean-Median: -0.03446452912424439
+
+GOV18 Number Mean-Median Higher: 83
+
+
+
+GOV18 Initial Efficiency Gap: -0.006698182359964588
+
+GOV18 Average Efficiency Gap: -0.043863244088715336
+
+GOV18 Number Efficiency Gap Higher: 75
+
+
+
+GOV18 Initial Dem Seats: 4.0
+
+GOV18 Average EDem Seats: 3.816666666666667
+
+GOV18 Number Dem Seats Higher: 19
+
+
+
+REG18 Initial Mean-Median: -0.029637346824702093
+
+REG18 Average Mean-Median: -0.03582316857354983
+
+REG18 Number Mean-Median Higher: 80
+
+
+
+REG18 Initial Efficiency Gap: 0.008564897417428963
+
+REG18 Average Efficiency Gap: -0.061014921433758015
+
+REG18 Number Efficiency Gap Higher: 74
+
+
+
+REG18 Initial Dem Seats: 4.0
+
+REG18 Average EDem Seats: 3.6041666666666665
+
+REG18 Number Dem Seats Higher: 4
+
+
+
